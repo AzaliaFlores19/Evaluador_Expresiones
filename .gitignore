@@ -1,14 +1,4 @@
 # Archivos de compilación
 build/
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-
-# Ejecutables (en Unix o Windows)
 *.exe
 *.out
-*.app
-*.dll
-*.so
-*.dylib
