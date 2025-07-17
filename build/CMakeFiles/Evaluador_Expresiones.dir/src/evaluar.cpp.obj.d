@@ -1,0 +1,36 @@
+CMakeFiles/Evaluador_Expresiones.dir/src/evaluar.cpp.obj: \
+ C:\Users\Azalia\Documents\Universidad\Universidad\ Q11\Lenguajes\ de\ Programacion\Proyectos\Evaluador_Expresiones\src\evaluar.cpp \
+ C:/mingw64/include/c++/14.2.0/iostream \
+ C:/mingw64/include/c++/14.2.0/stack \
+ C:/mingw64/include/c++/14.2.0/sstream \
+ C:/mingw64/include/c++/14.2.0/unordered_map \
+ C:/mingw64/include/c++/14.2.0/fstream \
+ C:/mingw64/include/c++/14.2.0/cmath \
+ C:/mingw64/include/c++/14.2.0/bits/requires_hosted.h \
+ C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h \
+ C:/mingw64/include/c++/14.2.0/bits/cpp_type_traits.h \
+ C:/mingw64/include/c++/14.2.0/ext/type_traits.h \
+ C:/mingw64/x86_64-w64-mingw32/include/math.h \
+ C:/mingw64/include/c++/14.2.0/bits/std_abs.h \
+ C:/mingw64/include/c++/14.2.0/cctype \
+ C:/mingw64/x86_64-w64-mingw32/include/ctype.h \
+ C:/mingw64/include/c++/14.2.0/print \
+ C:/mingw64/include/c++/14.2.0/bits/version.h \
+ C:/mingw64/include/c++/14.2.0/format \
+ C:/mingw64/include/c++/14.2.0/cstdio \
+ C:/mingw64/x86_64-w64-mingw32/include/stdio.h \
+ C:/mingw64/include/c++/14.2.0/cerrno \
+ C:/mingw64/x86_64-w64-mingw32/include/errno.h \
+ C:/mingw64/include/c++/14.2.0/bits/functexcept.h \
+ C:/mingw64/include/c++/14.2.0/system_error \
+ C:/mingw64/include/c++/14.2.0/expected \
+ C:/mingw64/include/c++/14.2.0/spanstream \
+ C:/mingw64/include/c++/14.2.0/span \
+ C:/mingw64/include/c++/14.2.0/streambuf \
+ C:/mingw64/include/c++/14.2.0/istream \
+ C:/mingw64/include/c++/14.2.0/ostream \
+ C:/mingw64/include/c++/14.2.0/bits/ranges_base.h \
+ C:/mingw64/include/c++/14.2.0/stdfloat \
+ C:/mingw64/include/c++/14.2.0/vector \
+ C:/mingw64/include/c++/14.2.0/string \
+ C:/Users/Azalia/Documents/Universidad/Universidad\ Q11/Lenguajes\ de\ Programacion/Proyectos/Evaluador_Expresiones/include/evaluar.h

@@ -1,0 +1,3 @@
+C:/Users/Azalia/Documents/Universidad/Universidad Q11/Lenguajes de Programacion/Proyectos/Evaluador_Expresiones/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
+C:/Users/Azalia/Documents/Universidad/Universidad Q11/Lenguajes de Programacion/Proyectos/Evaluador_Expresiones/build/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Azalia/Documents/Universidad/Universidad Q11/Lenguajes de Programacion/Proyectos/Evaluador_Expresiones/build/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir
