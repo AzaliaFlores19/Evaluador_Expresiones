@@ -1,8 +1,0 @@
-Successful 0 0
-Valid 0 0
-Invalid 0 0
-Successful Expressions are computed 0 0
-Valid infix to postfix conversion 1 0.0162581
-Invalid infix expressions 1 0.0155205
----
-Successful Expressions are computed
